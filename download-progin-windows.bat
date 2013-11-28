@@ -16,7 +16,7 @@ git clone https://github.com/dhendiii/Tugas-Protif-2.git
 git clone https://github.com/afaizn/Protif-WebService-V02.git
 git clone https://emfatoni@bitbucket.org/emfatoni/pemrograman-integratif.git
 git clone https://github.com/nicolasruslim/II3160-Pemograman-Integratif.git
-git clone https://github.com/abrahamwk/II3160-Tugas1-Tugas2.git
+git clone https://github.com/abrahamwk/II3160-18211013-18211047.git
 git clone https://github.com//mike2kevin/nyoba.git
 git clone https://raosan@bitbucket.org/raosan/progin-raosanfady.git
 git clone https://christianhendy@bitbucket.org/christianhendy/tugas-2-pemrograman-integratif.git
