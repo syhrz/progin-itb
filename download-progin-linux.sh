@@ -27,3 +27,5 @@ git clone https://github.com/bernadettevina/BernadetteVina.git
 git clone https://github.com/andyprimawan/habib-andy.git
 git clone https://github.com/khairaniummah/II3160-18211003-18211050.git
 git clone https://github.com/dhendiii/ProgTif3.git
+git clone https://github.com/proginndsrde/progin-ndsrde.git
+git clone https://github.com/mfaidzya/progin-18211052-18211006.git
